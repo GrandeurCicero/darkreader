@@ -459,6 +459,7 @@
                 ".dark_wrapper ul, html, .nav",
                 ".js-conversations-list, .js-conversations-list-bottom-bar",
                 ".rightcol-content > .top"
+                ".player-extension*"
             ],
             "rules": [
                 ".chat_text_input, .colon, .dark_wrapper *, .message, .room-title, .selected > a { color:black !important;}",
